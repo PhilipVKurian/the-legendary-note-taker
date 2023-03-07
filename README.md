@@ -6,9 +6,9 @@ its simply legendary
 The legendary note taker is pretty much just another text editor(JATE). It is a progressive web application that bundles client files together and has service workers
 to handle caching. It also features indexdb which stores user input and persists on page reload. The app can also be installed on mobile devices.(see bellow image.)
 
-<p align="center">
+
 ![image](https://user-images.githubusercontent.com/114792819/223310879-2b4910c5-bcd0-4e9d-97dd-f185c4916cd8.png)
-</p>
+
 
 ## Table of Contents
 
